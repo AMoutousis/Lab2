@@ -1,0 +1,13 @@
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.csprojAssemblyReference.cache
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.AssemblyInfo.cs
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.exe
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.deps.json
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.runtimeconfig.json
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.runtimeconfig.dev.json
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.dll
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2_RoomCalculator.pdb
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.dll
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.pdb
+C:\Users\Andoni\source\repos\Lab2_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2_RoomCalculator.genruntimeconfig.cache
